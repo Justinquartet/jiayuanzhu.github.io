@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Jiayuan Zhu 朱嘉元"
-  pronouns         : "he/him"  
-  bio              : "Jiayuan Zhu is an undergraduate researcher studying Computer Engineering with a minor in Biochemistry at the University of Michigan. His research interests lie at the intersection of computational modeling, biomedical engineering, and intelligent systems."
+  pronouns         : "He / Him"  
+  bio              : "Computer Engineering"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan - Ann Arbor"
   uri              : "jiayuanzhu.org"
@@ -46,14 +46,14 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Justinquartet"
+  github           : "Justinquartet"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/justin-zhujiayuan/
+  linkedin         : "justin-zhujiayuan"
   twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
@@ -201,13 +201,13 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
