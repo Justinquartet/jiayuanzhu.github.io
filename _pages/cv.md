@@ -13,12 +13,12 @@ Education
 ======
 * B.S. in Computer Engineering, Minor in Biochemistry, University of Michigan, 2027 (expected)
 
-Work experience
+<!-- Work experience
 ======
 * Fall 2024 – Spring 2025: Dining Hall Student Staff  
   * Michigan Dining, University of Michigan  
   * Duties included: Food service, kitchen assistance, and collaborative teamwork with peers and chefs  
-  * Supervisor: Staff Supervisor at MDining
+  * Supervisor: Staff Supervisor at MDining -->
 
 Research Experience
 ======
@@ -32,11 +32,11 @@ Research Experience
   * Designed and implemented a Dynamic Mode Decomposition (DMD) R package  
   * Analyzed large-scale biomedical time-series data under Prof. Dinov and Prof. Marino
 
-Projects
+<!-- Projects
 ======
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul>
+{% endfor %}</ul> -->
 
 Skills
 ======
@@ -47,7 +47,7 @@ Skills
   * Agent-Based and Oncological Modeling  
   * Biomedical Data Analysis  
 
-Publications
+<!-- Publications
 ======
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
@@ -63,9 +63,9 @@ Teaching
 ======
 <ul>{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul>
+{% endfor %}</ul> -->
 
-Service and leadership
+<!-- Service and leadership
 ======
 * Solar Splash – Electrical Design Leader (2023.09 – 2024.06)  
   * Designed PCB-based throttle sensor and solar-charging systems  
@@ -75,4 +75,4 @@ Service and leadership
   * Designed PCBs and underwater electronics for autonomous vehicles  
 
 * Michigan Student AI Lab – Member (2024.10 – Present)  
-  * Participated in AI education tracks and contributed to research discussions  
+  * Participated in AI education tracks and contributed to research discussions   -->
