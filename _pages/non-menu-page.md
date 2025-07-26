@@ -9,11 +9,10 @@ redirect_from:
 
 This is a page not in the menu. Use markdown in this page.
 
-Heading 1
+How did you get here?
 ======
 Good job!
 
 
-Heading 2
-======
 HaHa
+======
